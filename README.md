@@ -53,11 +53,14 @@ END
 
 ```
 OUTPUT
+<img width="877" height="468" alt="mpmc fact" src="https://github.com/user-attachments/assets/1c89cc0f-a659-440c-b94b-b160068cd2f6" />
 
-(Keil output screenshot can be inserted here)
 
 ---
 MANUAL CALCULATIONS
+
+<img width="630" height="400" alt="mpmcc" src="https://github.com/user-attachments/assets/435df0ed-8143-4a9a-8411-7e43789a9640" />
+
 
 ---
 
